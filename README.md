@@ -1,2 +1,2 @@
 # discord-twitter-sync
-Simple Discord Bot sync with Twitter
+Simple Discord Bot synced with Twitter
